@@ -1,0 +1,54 @@
+#logo {
+    width: 100%;
+    padding: 20px;
+}
+
+.search_bar_sec {
+    border-left: transparent!important;
+}
+
+.search-icon {
+    position: relative;
+    top: 13px;
+    left: 6.5px;
+    z-index: 1;
+}
+
+.dropdown_logo {
+    width: 10px;
+    padding-bottom: 5px;
+}
+
+.navbar_sec {
+    box-shadow: 0 6px 8px -9px grey;
+}
+
+.sidebar_column_sec {
+    background-color: skyblue;
+    color: blue;
+}
+
+.sidebar_title_sec {
+    font-size: 1.1rem;
+    color: blue;
+}
+
+.home_page_buying_sec {
+    border: 2px solid blue!important;
+    background-color: blue;
+    color: white;
+}
+
+.home_page_selling_sec {
+    border: 2px solid black;
+}
+
+.home_page_tag_sec {
+    border-radius: 43px;
+    background-color: #c1e1ec;
+}
+
+#suggested_tag_sec,
+.add_tag_sec {
+    border-radius: 43px;
+}
