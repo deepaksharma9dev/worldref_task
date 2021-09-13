@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/worldref_task/static/css/main.18f32cb7.chunk.css",
+    "main.js": "/worldref_task/static/js/main.cf87ac32.chunk.js",
+    "main.js.map": "/worldref_task/static/js/main.cf87ac32.chunk.js.map",
+    "runtime-main.js": "/worldref_task/static/js/runtime-main.835a20c8.js",
+    "runtime-main.js.map": "/worldref_task/static/js/runtime-main.835a20c8.js.map",
+    "static/js/2.b267f718.chunk.js": "/worldref_task/static/js/2.b267f718.chunk.js",
+    "static/js/2.b267f718.chunk.js.map": "/worldref_task/static/js/2.b267f718.chunk.js.map",
+    "static/js/3.25ef1201.chunk.js": "/worldref_task/static/js/3.25ef1201.chunk.js",
+    "static/js/3.25ef1201.chunk.js.map": "/worldref_task/static/js/3.25ef1201.chunk.js.map",
+    "index.html": "/worldref_task/index.html",
+    "static/css/main.18f32cb7.chunk.css.map": "/worldref_task/static/css/main.18f32cb7.chunk.css.map",
+    "static/js/2.b267f718.chunk.js.LICENSE.txt": "/worldref_task/static/js/2.b267f718.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.835a20c8.js",
+    "static/js/2.b267f718.chunk.js",
+    "static/css/main.18f32cb7.chunk.css",
+    "static/js/main.cf87ac32.chunk.js"
+  ]
+}
