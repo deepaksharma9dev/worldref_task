@@ -1,7 +1,12 @@
+/*For Brand Logo*/
+
 #logo {
     width: 100%;
     padding: 20px;
 }
+
+
+/* search bar -- navbar*/
 
 .search_bar_sec {
     border-left: transparent!important;
@@ -26,12 +31,16 @@
 .sidebar_column_sec {
     background-color: skyblue;
     color: blue;
+    border-left: 6px solid blue;
 }
 
 .sidebar_title_sec {
     font-size: 1.1rem;
     color: blue;
 }
+
+
+/*Home Page*/
 
 .home_page_buying_sec {
     border: 2px solid blue!important;
